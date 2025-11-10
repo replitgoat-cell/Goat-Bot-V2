@@ -8,7 +8,6 @@
     "npm": ">=10.0.0"
   },
   "dependencies": {
-    "@distube/ytdl-core": "^4.13.3",
     "aminul-new-fca": "^1.0.26",
     "axios": "^1.4.0",
     "bluebird": "^3.7.2",
