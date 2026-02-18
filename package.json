@@ -33,6 +33,7 @@
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.3.1",
     "mqtt": "^4.3.7",
+"mumaker": "^2.0.0",
     "node-cron": "^3.0.2",
     "nodemailer": "^6.7.5",
     "npmlog": "^7.0.1",
